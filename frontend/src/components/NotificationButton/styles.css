@@ -1,9 +1,9 @@
-.dsmeta-red-btn {
+.dsmeta-white-btn {
     height: 45px;
     width: 45px;
-    background: rgba(255, 107, 114, 0.1);
-    border: 1px solid #ff6b72;
-    border-radius: 10px;
+    background: rgb(77, 175, 34);
+    border: 1.5px solid #000000;
+    border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
